@@ -73,3 +73,84 @@ java -cp out Main
 
 **Aesha Makwana**
 **Student ID: 25IT051**
+
+# Object Oriented Programming – Part A Practicals
+
+**Student Name:** Aesha Makwana
+**Enrollment Number:** 25IT051
+**Subject:** Object Oriented Programming
+**Programming Language:** Java
+
+## About the Project
+
+This repository contains the Object Oriented Programming (OOP) Part A practicals implemented using Java.
+
+It includes practical programs from Practical 1 to Practical 14, covering Java programming concepts and their implementation.
+
+## Practical List
+
+| Practical    | Folder |
+| ------------ | ------ |
+| Practical 1  | `pr1`  |
+| Practical 2  | `pr2`  |
+| Practical 3  | `pr3`  |
+| Practical 4  | `pr4`  |
+| Practical 5  | `pr5`  |
+| Practical 6  | `pr6`  |
+| Practical 7  | `pr7`  |
+| Practical 8  | `pr8`  |
+| Practical 9  | `pr9`  |
+| Practical 10 | `pr10` |
+| Practical 11 | `pr11` |
+| Practical 12 | `pr12` |
+| Practical 13 | `pr13` |
+| Practical 14 | `pr14` |
+
+## Project Structure
+
+```text
+PartA/
+└── src/
+    ├── pr1/
+    ├── pr2/
+    ├── pr3/
+    ├── pr4/
+    ├── pr5/
+    ├── pr6/
+    ├── pr7/
+    ├── pr8/
+    ├── pr9/
+    ├── pr10/
+    ├── pr11/
+    ├── pr12/
+    ├── pr13/
+    └── pr14/
+```
+
+## Technologies Used
+
+* Java
+* Object Oriented Programming
+* VS Code
+
+## How to Run
+
+1. Open the required practical folder.
+2. Open the Java source file in the terminal.
+3. Compile the program:
+
+```bash
+javac FileName.java
+```
+
+4. Run the program:
+
+```bash
+java ClassName
+```
+
+## Author
+
+**Aesha Makwana**
+**Enrollment No.: 25IT051**
+
